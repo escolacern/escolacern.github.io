@@ -1,1 +1,1 @@
-# escolacern.github.io
+# http://escolacern.github.io
